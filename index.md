@@ -10,16 +10,17 @@ Welcome to the documentation for ButterDogCo! This contains documentation for th
 
 You can find links to different pages in the navigation located on the left, or see the links below:
 
-## Development
+## [Development][Development]
 
 - [DH-WS][DH-WS]: Development and contributing information for Da Hub Web Server (DH-WS)
 
-## [Procedures]
+## [Procedures][Procedures]
 
 - [Data Requests][Data Requests]: How we handle data requests, deletion, etc.
 
 ----
 
+[Development]: ./development/
 [DH-WS]: ./development/DH-WS/
 [Procedures]: ./procedures/
 [Data Requests]: ./procedures/data_requests
