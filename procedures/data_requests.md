@@ -5,9 +5,9 @@ parent: Procedures
 nav_order: 1
 ---
 
-{:toc}
-
 # Data Requests
+
+{:toc}
 
 As per our [Privacy Policy][Privacy Policy], you have the right to request access to the personal information we collect from you, change that information, and delete it. Contact information for such requests can be found in the [Review, Update, or Delete Your Data section of the Privacy Policy][Privacy Policy: Deletion].
 
@@ -34,7 +34,7 @@ You can expect a response within 2 to 3 business days,
 When handling such requests, we follow the steps below:
 
 1. Identify the services you've used based on the information you provide to us;
-2. lookup perform the requested actions on the relevant databases;
+2. lookup and perform the requested actions on the relevant databases;
 3. double check our work and report back to you on our progress.
 
 Our report back to you will include the following information:
