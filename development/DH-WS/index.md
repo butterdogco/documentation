@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "DH-WS Development"
-parent: DH-WS
+parent: Development
 nav_order: 1
 ---
 

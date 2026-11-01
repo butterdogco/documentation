@@ -1,7 +1,10 @@
 ---
-title: Home
+title: Overview
 layout: home
+nav_order: 1
 ---
+
+# Overview
 
 Welcome to the documentation for ButterDogCo! This contains documentation for things such as: Procedures, service development, and more.
 
