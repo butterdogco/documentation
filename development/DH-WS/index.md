@@ -5,6 +5,8 @@ parent: Development
 nav_order: 1
 ---
 
+{:toc}
+
 # DH-WS Development
 
 ## What is DH-WS?
