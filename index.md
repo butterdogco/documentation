@@ -8,7 +8,7 @@ nav_order: 1
 
 Welcome to the documentation for ButterDogCo! This contains documentation for things such as: Procedures, service development, and more.
 
-You can find links to different pages in the navigation located on the left, or see the links below:
+You can find links to different pages in the navigation located on the left, or below:
 
 ## [Development][Development]
 
