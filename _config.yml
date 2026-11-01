@@ -1,0 +1,8 @@
+title: ButterDogCo Documentation
+description: ButterDogCo's documentation for things such as procedures, service development, and more.
+theme: just-the-docs
+
+url: https://butterdogco.com/documentation/
+
+aux_links:
+  Documentation Repository: https://github.com/butterdogco/documentation
