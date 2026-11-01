@@ -5,7 +5,7 @@ title: "Procedures"
 
 # Procedures
 
-- [Data Requests]: How we handle data requests, deletion, etc.
+- [Data Requests][Data Requests]: How we handle data requests, deletion, etc.
 
 ---
 
