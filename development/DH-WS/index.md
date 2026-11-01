@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # DH-WS Development
+{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }

@@ -6,6 +6,7 @@ nav_order: 2
 ---
 
 # Security
+{: .no_toc }
 
 ## Table of Contents
 {: .no_toc .text-delta }
