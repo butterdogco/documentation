@@ -9,6 +9,7 @@ nav_order: 3
 How we handle certain events, requests, etc.
 
 - [Data Requests][Data Requests]: How we handle data requests, deletion, etc.
+- [Security][Security]: How to report security concerns, and how we handle security or privacy related concerns.
 
 ---
 

@@ -14,17 +14,19 @@ You can find links to different pages in the navigation located on the left, or 
 
 How our development processes work, and how you can contribute.
 
-- [DH-WS][DH-WS]: Development and contributing information for Da Hub Web Server (DH-WS)
+- [DH-WS][Development: DH-WS]: Development and contributing information for Da Hub Web Server (DH-WS)
 
 ## [Procedures][Procedures]
 
 How we handle certain events, requests, etc.
 
-- [Data Requests][Data Requests]: How we handle data requests, deletion, etc.
+- [Data Requests][Procedures: Data Requests]: How we handle data requests, deletion, etc.
+- [Security][Procedures: Security]: How to report security concerns, and how we handle security or privacy related concerns.
 
 ----
 
 [Development]: ./development/
-[DH-WS]: ./development/DH-WS/
+[Development: DH-WS]: ./development/DH-WS/
 [Procedures]: ./procedures/
-[Data Requests]: ./procedures/data_requests
+[Procedures: Data Requests]: ./procedures/data_requests
+[Procedures: Security]: ./procedures/security

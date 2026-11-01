@@ -7,7 +7,7 @@ nav_order: 1
 
 # DH-WS Development
 
-1.
+1. TOC
 {:toc}
 
 ## What is DH-WS?

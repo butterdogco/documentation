@@ -7,7 +7,7 @@ nav_order: 1
 
 # Data Requests
 
-1.
+1. TOC
 {:toc}
 
 As per our [Privacy Policy][Privacy Policy], you have the right to request access to the personal information we collect from you, change that information, and delete it. Contact information for such requests can be found in the [Review, Update, or Delete Your Data section of the Privacy Policy][Privacy Policy: Deletion].
