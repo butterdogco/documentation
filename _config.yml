@@ -1,8 +1,19 @@
 title: ButterDogCo Documentation
 description: ButterDogCo's documentation for things such as procedures, service development, and more.
 theme: just-the-docs
+color_scheme: dark
 
-url: https://butterdogco.com/documentation/
+# Icons & Logos
+logo: "/assets/images/ButterDogCo Wide Logo.png"
+favicon_ico: "/assets/images/favicon.ico"
+
+# Footer Content
+gh_edit_link: true
+gh_edit_link_text: "Improve this page"
+gh_edit_repository: "https://github.com/butterdogco/documentation"
+gh_edit_branch: "main"
+
+url: https://butterdogco.com/documentation
 
 aux_links:
   Documentation Repository: https://github.com/butterdogco/documentation
