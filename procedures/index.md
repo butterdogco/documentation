@@ -2,6 +2,7 @@
 layout: default
 title: "Procedures"
 nav_order: 3
+has_toc: false
 ---
 
 # Procedures
@@ -14,3 +15,4 @@ How we handle certain events, requests, etc.
 ---
 
 [Data Requests]: ./data_requests
+[Security]: ./security

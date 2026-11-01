@@ -7,8 +7,13 @@ nav_order: 2
 
 # Security
 
+## Table of Contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+--
 
 Our security procedures, such as how you can report security concerns, and how we handle security related concerns. Note that any sort of concern you have may be reported to us, big or small, even if you aren't sure. It's best for us to know!
 
