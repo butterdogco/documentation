@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Procedures"
+nav_order: 3
 ---
 
 # Procedures
