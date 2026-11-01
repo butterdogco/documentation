@@ -6,6 +6,8 @@ nav_order: 2
 
 # Development
 
+How our development processes work, and how you can contribute.
+
 - [DH-WS][DH-WS]: Development and contributing information for Da Hub Web Server (DH-WS)
 
 ---
